@@ -2,7 +2,7 @@
 
 Pyqt5 ui开发，使用TensorFlow的[nmt](https://github.com/tensorflow/nmt)翻译模型的个人翻译软件，纯属闹着玩写的。
 
-![效果图](https://github.com/GGL12/Translator/img/img.png) 
+![效果图](https://github.com/GGL12/Translator/blob/master/img/img.png) 
 
 ### 人工翻译按钮
 
